@@ -5,7 +5,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/actas-vue/', // Aquí especificamos la subcarpeta de GitHub Pages
+  base: '/actas-vue2/', // Aquí especificamos la subcarpeta de GitHub Pages
   plugins: [
     vue(),
     vueDevTools(),
